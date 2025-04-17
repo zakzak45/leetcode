@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/zakzak45/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/zakzak45/leetcode/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/zakzak45/leetcode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/zakzak45/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
