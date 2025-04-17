@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zakzak45/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 ## Dynamic Programming
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/zakzak45/leetcode/tree/master/0012-integer-to-roman) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zakzak45/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zakzak45/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
