@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/zakzak45/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
+| [2058-concatenation-of-array](https://github.com/zakzak45/leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/zakzak45/leetcode/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/zakzak45/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
