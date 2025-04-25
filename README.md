@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/zakzak45/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/zakzak45/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/zakzak45/leetcode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/zakzak45/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
