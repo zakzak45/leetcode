@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/zakzak45/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/zakzak45/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/zakzak45/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/zakzak45/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/zakzak45/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zakzak45/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/zakzak45/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/zakzak45/leetcode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/zakzak45/leetcode/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/zakzak45/leetcode/tree/master/0043-multiply-strings) |
 | [2058-concatenation-of-array](https://github.com/zakzak45/leetcode/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
