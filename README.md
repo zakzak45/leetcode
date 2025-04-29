@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/zakzak45/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/zakzak45/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/zakzak45/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 ## Hash Table
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zakzak45/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
