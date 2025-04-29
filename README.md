@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/zakzak45/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/zakzak45/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/zakzak45/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/zakzak45/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zakzak45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/zakzak45/leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/zakzak45/leetcode/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zakzak45/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/zakzak45/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/zakzak45/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/zakzak45/leetcode/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/zakzak45/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/zakzak45/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/zakzak45/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/zakzak45/leetcode/tree/master/0148-sort-list) |
 ## String Matching
