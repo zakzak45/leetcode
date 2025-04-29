@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/zakzak45/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/zakzak45/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/zakzak45/leetcode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zakzak45/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/zakzak45/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/zakzak45/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
