@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/zakzak45/leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/zakzak45/leetcode/tree/master/0136-single-number) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/zakzak45/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zakzak45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/zakzak45/leetcode/tree/master/0136-single-number) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [2058-concatenation-of-array](https://github.com/zakzak45/leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
