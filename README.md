@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zakzak45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/zakzak45/leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/zakzak45/leetcode/tree/master/0217-contains-duplicate) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [2058-concatenation-of-array](https://github.com/zakzak45/leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zakzak45/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/zakzak45/leetcode/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/zakzak45/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/zakzak45/leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/zakzak45/leetcode/tree/master/0217-contains-duplicate) |
 ## String Matching
 |  |
 | ------- |
