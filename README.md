@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/zakzak45/leetcode/tree/master/0412-fizz-buzz) |
+| [2556-convert-the-temperature](https://github.com/zakzak45/leetcode/tree/master/2556-convert-the-temperature) |
 | [2998-count-symmetric-integers](https://github.com/zakzak45/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
