@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/zakzak45/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/zakzak45/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/zakzak45/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/zakzak45/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zakzak45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zakzak45/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/zakzak45/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/zakzak45/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 ## Hash Table
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/zakzak45/leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/zakzak45/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/zakzak45/leetcode/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
