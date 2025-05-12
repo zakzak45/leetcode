@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/zakzak45/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/zakzak45/leetcode/tree/master/0412-fizz-buzz) |
 | [2998-count-symmetric-integers](https://github.com/zakzak45/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/zakzak45/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/zakzak45/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/zakzak45/leetcode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/zakzak45/leetcode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/zakzak45/leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/zakzak45/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/zakzak45/leetcode/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
