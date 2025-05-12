@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/zakzak45/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
 | [2998-count-symmetric-integers](https://github.com/zakzak45/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/zakzak45/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/zakzak45/leetcode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/zakzak45/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/zakzak45/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/zakzak45/leetcode/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
