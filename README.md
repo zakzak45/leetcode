@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/zakzak45/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/zakzak45/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/zakzak45/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/zakzak45/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/zakzak45/leetcode/tree/master/0055-jump-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zakzak45/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/zakzak45/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/zakzak45/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/zakzak45/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zakzak45/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/zakzak45/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/zakzak45/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zakzak45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zakzak45/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zakzak45/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/zakzak45/leetcode/tree/master/2998-count-symmetric-integers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/zakzak45/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
