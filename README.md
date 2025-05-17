@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/zakzak45/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/zakzak45/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/zakzak45/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/zakzak45/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/zakzak45/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/zakzak45/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/zakzak45/leetcode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
 ## Array
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/zakzak45/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/zakzak45/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/zakzak45/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/zakzak45/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/zakzak45/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/zakzak45/leetcode/tree/master/0125-valid-palindrome) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/zakzak45/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/zakzak45/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/zakzak45/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/zakzak45/leetcode/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
