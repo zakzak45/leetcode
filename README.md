@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/zakzak45/leetcode/tree/master/0412-fizz-buzz) |
 | [2556-convert-the-temperature](https://github.com/zakzak45/leetcode/tree/master/2556-convert-the-temperature) |
 | [2998-count-symmetric-integers](https://github.com/zakzak45/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/zakzak45/leetcode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/zakzak45/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [2058-concatenation-of-array](https://github.com/zakzak45/leetcode/tree/master/2058-concatenation-of-array) |
+| [3321-type-of-triangle](https://github.com/zakzak45/leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/zakzak45/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/zakzak45/leetcode/tree/master/0217-contains-duplicate) |
+| [3321-type-of-triangle](https://github.com/zakzak45/leetcode/tree/master/3321-type-of-triangle) |
 ## String Matching
 |  |
 | ------- |
