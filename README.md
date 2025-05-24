@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/zakzak45/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/zakzak45/leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/zakzak45/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/zakzak45/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/zakzak45/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/zakzak45/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/zakzak45/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/zakzak45/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/zakzak45/leetcode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/zakzak45/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/zakzak45/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/zakzak45/leetcode/tree/master/0242-valid-anagram) |
 | [3321-type-of-triangle](https://github.com/zakzak45/leetcode/tree/master/3321-type-of-triangle) |
 ## String Matching
 |  |
