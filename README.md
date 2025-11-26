@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zakzak45/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/zakzak45/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zakzak45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/zakzak45/leetcode/tree/master/0217-contains-duplicate) |
 | [1293-three-consecutive-odds](https://github.com/zakzak45/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/zakzak45/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/zakzak45/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/zakzak45/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zakzak45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/zakzak45/leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/zakzak45/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/zakzak45/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zakzak45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
