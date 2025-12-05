@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/zakzak45/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/zakzak45/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/zakzak45/leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/zakzak45/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/zakzak45/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/zakzak45/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zakzak45/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/zakzak45/leetcode/tree/master/0338-counting-bits) |
 | [1299-k-concatenation-maximum-sum](https://github.com/zakzak45/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 ## Hash Table
 |  |
