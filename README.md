@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/zakzak45/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/zakzak45/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/zakzak45/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zakzak45/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/zakzak45/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/zakzak45/leetcode/tree/master/0342-power-of-four) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/zakzak45/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/zakzak45/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/zakzak45/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/zakzak45/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/zakzak45/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zakzak45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/zakzak45/leetcode/tree/master/0088-merge-sorted-array) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zakzak45/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/zakzak45/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/zakzak45/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/zakzak45/leetcode/tree/master/0079-word-search) |
 ## Matrix
 |  |
